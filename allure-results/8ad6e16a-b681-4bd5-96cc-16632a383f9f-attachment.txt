@@ -1,0 +1,14 @@
+
+################################################################################################################################################
+Starting Execution:	[8 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.LoginFormTest.invalidCredentials]
+################################################################################################################################################
+[ReportManager] Target URL: [http://automationpractice.com/index.php?controller=authentication] @02-01-2021 17:26:24.0928 PM
+[ReportManager] Initial URL: [data:,] @02-01-2021 17:26:24.0987 PM
+[ReportManager] An Exception Occured with this Message: timeout: Timed out receiving message from renderer: 29.217. @02-01-2021 17:26:54.0998 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.TimeoutException] @02-01-2021 17:26:55.0000 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210102-172237", Target File: "\1609601226475_invalidCredentials.gif"]. @02-01-2021 17:27:06.0555 PM
+[ReportManager] Browser Action [navigateToNewURL] failed. With the following test data [http://automationpractice.com/index.php?controller=authentication]. @02-01-2021 17:27:08.0098 PM
+[ReportManager] Successfully created attachment [Screenshot - 1609601226475_invalidCredentials_navigateToNewURL_passed] @02-01-2021 17:27:08.0100 PM
+[ReportManager] Successfully created attachment [Video Recording - invalidCredentials] @02-01-2021 17:27:14.0947 PM
+[ReportManager] Successfully created attachment [Animated Gif - invalidCredentials] @02-01-2021 17:27:14.0949 PM

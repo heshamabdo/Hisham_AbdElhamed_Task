@@ -1,0 +1,12 @@
+
+################################################################################################################################################
+Starting Execution:	[4 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.CreateAccountFormTest.requiredFieldsEmpty]
+################################################################################################################################################
+[ReportManager] Target URL: [http://automationpractice.com/index.php] @02-01-2021 17:24:16.0020 PM
+[ReportManager] Initial URL: [data:,] @02-01-2021 17:24:16.0072 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210102-172237", Target File: "\1609601061943_requiredFieldsEmpty.gif"]. @02-01-2021 17:24:23.0390 PM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [http://automationpractice.com/index.php]. @02-01-2021 17:24:25.0176 PM
+[ReportManager] Successfully created attachment [Screenshot - 1609601061943_requiredFieldsEmpty_navigateToURL_passed] @02-01-2021 17:24:25.0181 PM
+[ReportManager] Successfully created attachment [Video Recording - requiredFieldsEmpty] @02-01-2021 17:24:47.0539 PM
+[ReportManager] Successfully created attachment [Animated Gif - requiredFieldsEmpty] @02-01-2021 17:24:47.0541 PM

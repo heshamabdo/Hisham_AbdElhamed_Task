@@ -1,0 +1,12 @@
+
+################################################################################################################################################
+Starting Execution:	[2 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.CreateAccountFormTest.authenticationPageEmailField]
+################################################################################################################################################
+[ReportManager] Target URL: [http://automationpractice.com/index.php] @02-01-2021 17:23:15.0346 PM
+[ReportManager] Initial URL: [data:,] @02-01-2021 17:23:15.0396 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210102-172237", Target File: "\1609601001415_authenticationPageEmailField.gif"]. @02-01-2021 17:23:21.0584 PM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [http://automationpractice.com/index.php]. @02-01-2021 17:23:24.0266 PM
+[ReportManager] Successfully created attachment [Screenshot - 1609601001415_authenticationPageEmailField_navigateToURL_passed] @02-01-2021 17:23:24.0273 PM
+[ReportManager] Successfully created attachment [Video Recording - authenticationPageEmailField] @02-01-2021 17:23:42.0116 PM
+[ReportManager] Successfully created attachment [Animated Gif - authenticationPageEmailField] @02-01-2021 17:23:42.0119 PM
