@@ -2,10 +2,13 @@
  
 Tools:
 
-• Selenium Web Driver
-• SHAFT_ENGINE(https://github.com/MohabMohie/SHAFT_ENGINE)
-• Java jdk 15.0.1
+• Selenium Web Driver 
+• SHAFT_ENGINE(https://github.com/MohabMohie/SHAFT_ENGINE) 
+• Java jdk 15.0.1 and Eclipse IDE Version: 2020-12 (4.18.0)
 • TestNG
+• testing APIs using REST Assured
+• test data externalization by using Microsoft Excel, JSON, and property files.
+• Allure Reporting
 
 Tested functionalities:
 • Create new account form
