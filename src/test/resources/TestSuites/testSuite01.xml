@@ -1,9 +1,13 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
-<suite name="Suite01" verbose="10">
+<suite name="tests.api.users" verbose="10">
     <test name="Test01">
         <classes>
-            <class name="api.UserData">
+            <class name="tests.api.users.UserData">
+            <methods>
+                <include name="GetallPosts" />
+                <include name="Getonepost" />
+            </methods>
             </class>
         </classes>
     </test>
