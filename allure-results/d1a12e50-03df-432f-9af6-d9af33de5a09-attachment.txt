@@ -1,0 +1,12 @@
+
+################################################################################################################################################
+Starting Execution:	[6 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.CreateAccountFormTest.createAccountSuccessfully]
+################################################################################################################################################
+[ReportManager] Target URL: [http://automationpractice.com/index.php] @02-01-2021 19:41:06.0682 PM
+[ReportManager] Initial URL: [data:,] @02-01-2021 19:41:06.0738 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210102-193756", Target File: "\1609609277318_createAccountSuccessfully.gif"]. @02-01-2021 19:41:17.0492 PM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [http://automationpractice.com/index.php]. @02-01-2021 19:41:19.0338 PM
+[ReportManager] Successfully created attachment [Screenshot - 1609609277318_createAccountSuccessfully_navigateToURL_passed] @02-01-2021 19:41:19.0346 PM
+[ReportManager] Successfully created attachment [Video Recording - createAccountSuccessfully] @02-01-2021 19:41:51.0451 PM
+[ReportManager] Successfully created attachment [Animated Gif - createAccountSuccessfully] @02-01-2021 19:41:51.0454 PM

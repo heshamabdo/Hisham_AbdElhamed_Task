@@ -1,0 +1,12 @@
+
+################################################################################################################################################
+Starting Execution:	[3 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.CreateAccountFormTest.personalInfoFields]
+################################################################################################################################################
+[ReportManager] Target URL: [http://automationpractice.com/index.php] @02-01-2021 19:39:20.0143 PM
+[ReportManager] Initial URL: [data:,] @02-01-2021 19:39:20.0203 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210102-193756", Target File: "\1609609170934_personalInfoFields.gif"]. @02-01-2021 19:39:31.0198 PM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [http://automationpractice.com/index.php]. @02-01-2021 19:39:32.0918 PM
+[ReportManager] Successfully created attachment [Screenshot - 1609609170934_personalInfoFields_navigateToURL_passed] @02-01-2021 19:39:32.0924 PM
+[ReportManager] Successfully created attachment [Video Recording - personalInfoFields] @02-01-2021 19:39:47.0198 PM
+[ReportManager] Successfully created attachment [Animated Gif - personalInfoFields] @02-01-2021 19:39:47.0201 PM

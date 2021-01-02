@@ -1,0 +1,12 @@
+
+################################################################################################################################################
+Starting Execution:	[12 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.selectChlotes]
+################################################################################################################################################
+[ReportManager] Target URL: [http://automationpractice.com/index.php] @02-01-2021 19:45:07.0115 PM
+[ReportManager] Initial URL: [data:,] @02-01-2021 19:45:07.0173 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210102-193756", Target File: "\1609609524747_selectChlotes.gif"]. @02-01-2021 19:45:24.0903 PM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [http://automationpractice.com/index.php]. @02-01-2021 19:45:26.0599 PM
+[ReportManager] Successfully created attachment [Screenshot - 1609609524747_selectChlotes_navigateToURL_passed] @02-01-2021 19:45:26.0605 PM
+[ReportManager] Successfully created attachment [Video Recording - selectChlotes] @02-01-2021 19:46:51.0652 PM
+[ReportManager] Successfully created attachment [Animated Gif - selectChlotes] @02-01-2021 19:46:51.0654 PM

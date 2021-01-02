@@ -1,0 +1,11 @@
+
+################################################################################################################################################
+Starting Execution:	[17 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.signinRequest]
+################################################################################################################################################
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210102-193756", Target File: "\1609609672626_signinRequest.gif"]. @02-01-2021 19:47:52.0721 PM
+[ReportManager] Browser Action [refreshCurrentPage] successfully performed. @02-01-2021 19:47:54.0172 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - refreshCurrentPage - Actual Value] @02-01-2021 19:47:54.0173 PM
+[ReportManager] Successfully created attachment [Screenshot - 1609609672626_signinRequest_refreshCurrentPage_passed] @02-01-2021 19:47:54.0176 PM
+[ReportManager] Successfully created attachment [Video Recording - signinRequest] @02-01-2021 19:48:06.0149 PM
+[ReportManager] Successfully created attachment [Animated Gif - signinRequest] @02-01-2021 19:48:06.0151 PM

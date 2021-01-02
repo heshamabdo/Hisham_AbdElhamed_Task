@@ -1,0 +1,12 @@
+
+################################################################################################################################################
+Starting Execution:	[9 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.LoginFormTest.loginWithoutCredentials]
+################################################################################################################################################
+[ReportManager] Target URL: [http://automationpractice.com/index.php?controller=authentication] @02-01-2021 19:42:41.0099 PM
+[ReportManager] Initial URL: [data:,] @02-01-2021 19:42:41.0159 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210102-193756", Target File: "\1609609369283_loginWithoutCredentials.gif"]. @02-01-2021 19:42:49.0356 PM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [http://automationpractice.com/index.php?controller=authentication]. @02-01-2021 19:42:51.0123 PM
+[ReportManager] Successfully created attachment [Screenshot - 1609609369283_loginWithoutCredentials_navigateToURL_passed] @02-01-2021 19:42:51.0125 PM
+[ReportManager] Successfully created attachment [Video Recording - loginWithoutCredentials] @02-01-2021 19:43:01.0936 PM
+[ReportManager] Successfully created attachment [Animated Gif - loginWithoutCredentials] @02-01-2021 19:43:01.0938 PM

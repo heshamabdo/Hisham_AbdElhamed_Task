@@ -1,0 +1,11 @@
+
+################################################################################################################################################
+Starting Execution:	[13 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.ShopWorkflowTest.deleteCartProducts]
+################################################################################################################################################
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210102-193756", Target File: "\1609609614215_deleteCartProducts.gif"]. @02-01-2021 19:46:54.0302 PM
+[ReportManager] Browser Action [refreshCurrentPage] successfully performed. @02-01-2021 19:46:55.0832 PM
+[ReportManager] Successfully created attachment [Browser Action Test Data - refreshCurrentPage - Actual Value] @02-01-2021 19:46:55.0844 PM
+[ReportManager] Successfully created attachment [Screenshot - 1609609614215_deleteCartProducts_refreshCurrentPage_passed] @02-01-2021 19:46:55.0846 PM
+[ReportManager] Successfully created attachment [Video Recording - deleteCartProducts] @02-01-2021 19:47:09.0403 PM
+[ReportManager] Successfully created attachment [Animated Gif - deleteCartProducts] @02-01-2021 19:47:09.0405 PM

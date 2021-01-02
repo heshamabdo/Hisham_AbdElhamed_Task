@@ -34,7 +34,7 @@
   </parameter>
   <parameter>
     <key>sun.java.command</key>
-    <value>C:\Users\Hisham\AppData\Local\Temp\surefire14649890813110341197\surefirebooter7163903210212456100.jar C:\Users\Hisham\AppData\Local\Temp\surefire14649890813110341197 2021-01-02T17-22-33_066-jvmRun1 surefire8396680210124222140tmp surefire_011605210622441077231tmp</value>
+    <value>C:\Users\Hisham\AppData\Local\Temp\surefire14425145706675850544\surefirebooter5488247975375760847.jar C:\Users\Hisham\AppData\Local\Temp\surefire14425145706675850544 2021-01-02T19-37-52_208-jvmRun1 surefire10711144794388328157tmp surefire_013896475478072987128tmp</value>
   </parameter>
   <parameter>
     <key>jdk.debug</key>
@@ -149,10 +149,6 @@
     <value>5</value>
   </parameter>
   <parameter>
-    <key>userId</key>
-    <value>1</value>
-  </parameter>
-  <parameter>
     <key>org.slf4j.simpleLogger.defaultLogLevel</key>
     <value>info</value>
   </parameter>
@@ -162,7 +158,7 @@
   </parameter>
   <parameter>
     <key>java.library.path</key>
-    <value>C:\Program Files\Java\jdk-15.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\webdriver;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Hisham\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Sophos\Sophos SSL VPN Client\bin;C:\Users\Hisham\AppData\Roaming\npm;C:\Users\Hisham\AppData\Local\Programs\Microsoft VS Code\bin;.</value>
+    <value>C:\Program Files\Java\jdk-15.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\webdriver;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\Hisham\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Sophos\Sophos SSL VPN Client\bin;C:\Users\Hisham\AppData\Roaming\npm;C:\Users\Hisham\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Hisham\AppData\Local\GitHubDesktop\bin;.</value>
   </parameter>
   <parameter>
     <key>java.vendor</key>
@@ -269,10 +265,6 @@
     <value>;</value>
   </parameter>
   <parameter>
-    <key>title</key>
-    <value>sunt aut facere repellat provident occaecati excepturi optio reprehenderit</value>
-  </parameter>
-  <parameter>
     <key>os.version</key>
     <value>10.0</value>
   </parameter>
@@ -335,10 +327,6 @@
   <parameter>
     <key>targetBrowserName</key>
     <value>GoogleChrome</value>
-  </parameter>
-  <parameter>
-    <key>id</key>
-    <value>1</value>
   </parameter>
   <parameter>
     <key>screenshotParams_watermarkOpacity</key>
@@ -405,13 +393,6 @@
     <value>Oracle Corporation</value>
   </parameter>
   <parameter>
-    <key>body</key>
-    <value>quia et suscipit
-suscipit recusandae consequuntur expedita et cum
-reprehenderit molestiae ut ut quas totam
-nostrum rerum est autem sunt rem eveniet architecto</value>
-  </parameter>
-  <parameter>
     <key>openAllureReportAfterExecution</key>
     <value>true</value>
   </parameter>
@@ -453,7 +434,7 @@ nostrum rerum est autem sunt rem eveniet architecto</value>
   </parameter>
   <parameter>
     <key>surefire.real.class.path</key>
-    <value>C:\Users\Hisham\AppData\Local\Temp\surefire14649890813110341197\surefirebooter7163903210212456100.jar</value>
+    <value>C:\Users\Hisham\AppData\Local\Temp\surefire14425145706675850544\surefirebooter5488247975375760847.jar</value>
   </parameter>
   <parameter>
     <key>shellSessionTimeout</key>

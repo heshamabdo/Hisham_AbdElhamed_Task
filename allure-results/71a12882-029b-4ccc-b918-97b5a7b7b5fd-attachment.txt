@@ -1,0 +1,12 @@
+
+################################################################################################################################################
+Starting Execution:	[7 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.LoginFormTest.loginPage]
+################################################################################################################################################
+[ReportManager] Target URL: [http://automationpractice.com/index.php?controller=authentication] @02-01-2021 19:41:56.0843 PM
+[ReportManager] Initial URL: [data:,] @02-01-2021 19:41:56.0899 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210102-193756", Target File: "\1609609323089_loginPage.gif"]. @02-01-2021 19:42:03.0157 PM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [http://automationpractice.com/index.php?controller=authentication]. @02-01-2021 19:42:04.0875 PM
+[ReportManager] Successfully created attachment [Screenshot - 1609609323088_loginPage_navigateToURL_passed] @02-01-2021 19:42:04.0878 PM
+[ReportManager] Successfully created attachment [Video Recording - loginPage] @02-01-2021 19:42:06.0270 PM
+[ReportManager] Successfully created attachment [Animated Gif - loginPage] @02-01-2021 19:42:06.0272 PM

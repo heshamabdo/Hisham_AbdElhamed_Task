@@ -1,0 +1,14 @@
+
+################################################################################################################################################
+Starting Execution:	[10 out of 22] test cases in the current suite
+Test Method:		[automationpractice.com.LoginFormTest.emailFormat]
+################################################################################################################################################
+[ReportManager] Target URL: [http://automationpractice.com/index.php?controller=authentication] @02-01-2021 19:43:07.0438 PM
+[ReportManager] Initial URL: [data:,] @02-01-2021 19:43:07.0492 PM
+[ReportManager] An Exception Occured with this Message: timeout: Timed out receiving message from renderer: 28.861. @02-01-2021 19:43:37.0501 PM
+[ReportManager] Successfully created attachment [Exception Stack Trace - org.openqa.selenium.TimeoutException] @02-01-2021 19:43:37.0505 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210102-193756", Target File: "\1609609452869_emailFormat.gif"]. @02-01-2021 19:44:12.0943 PM
+[ReportManager] Browser Action [navigateToNewURL] failed. With the following test data [http://automationpractice.com/index.php?controller=authentication]. @02-01-2021 19:44:14.0319 PM
+[ReportManager] Successfully created attachment [Screenshot - 1609609452869_emailFormat_navigateToNewURL_passed] @02-01-2021 19:44:14.0324 PM
+[ReportManager] Successfully created attachment [Video Recording - emailFormat] @02-01-2021 19:44:30.0920 PM
+[ReportManager] Successfully created attachment [Animated Gif - emailFormat] @02-01-2021 19:44:30.0922 PM
