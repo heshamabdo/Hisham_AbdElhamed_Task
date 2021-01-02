@@ -14,8 +14,6 @@ Tested functionalities:
 • Create new account form
 • Login form
 • Complete shopping workflow
-• API get specific id
-• API get specific id
 
 Test Cases : 
 https://drive.google.com/drive/folders/1FwTzUK8Bd0S1kgz6WBeg84iLo5xF9L2T?usp=sharing
