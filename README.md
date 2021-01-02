@@ -14,9 +14,14 @@ Tested functionalities:
 • Create new account form
 • Login form
 • Complete shopping workflow
+• API get specific id
+• API get specific id
 
 Test Cases : 
-https://drive.google.com/file/d/1Pdx9EszTS1HXJDn6MEYTr9kYJ_eSfjS0/view?usp=sharing
+https://drive.google.com/drive/folders/1FwTzUK8Bd0S1kgz6WBeg84iLo5xF9L2T?usp=sharing
 
 Videos : 
 https://drive.google.com/drive/folders/1re131NLfOmMn8ObLMfhqoeV8gZiDXxfR?usp=sharing
+
+API :
+https://github.com/heshamabdo/APITASK.git
